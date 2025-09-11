@@ -1,0 +1,164 @@
+Rfam_ID,Family_Name
+RF03064,RAGATH-18 RNA
+RF00005,tRNA
+RF01739,Glutamine riboswitch
+RF00001,5S ribosomal RNA
+RF01704,Glutamine-II riboswitch
+RF03072,raiA RNA
+RF00023,transfer-messenger RNA (tmRNA)
+RF00010,Bacterial RNase P class A
+RF00162,SAM riboswitch (S box leader)
+RF00174,Cobalamin riboswitch
+RF01725,SAM-I/IV variant riboswitch
+RF02001,Group II catalytic intron D1-D4-3
+RF03054,Xanthine riboswitch (NMT1 RNA)
+RF03087,ROOL RNA
+RF01734,Fluoride riboswitch (crcB)
+RF00169,Bacterial small SRP RNA
+RF02012,Group II catalytic intron D1-D4-7
+RF01998,Group II catalytic intron D1-D4-1
+RF00051,mir-17 microRNA precursor family
+RF00004,U2 spliceosomal RNA
+RF00026,U6 spliceosomal RNA
+RF01750,ZMP/ZTP riboswitch
+RF03013,nadA RNA
+RF00020,U5 spliceosomal RNA
+RF00015,U4 spliceosomal RNA
+RF00455,mir-15 microRNA precursor family
+RF00386,Enterovirus 5′ cloverleaf CRE
+RF00380,M-box riboswitch
+RF02678,Hatchet ribozyme
+RF01051,Cyclic di-GMP-I riboswitch
+RF00013,6S / SsrS RNA
+RF01689,AdoCbl variant RNA
+RF00050,FMN riboswitch (RFN element)
+RF00480,HIV Ribosomal frameshift signal
+RF00167,Purine riboswitch
+RF00375,HIV primer binding site (PBS)
+RF03085,abiF RNA
+RF00009,Nuclear RNase P
+RF00059,TPP riboswitch (THI element)
+RF00011,Bacterial RNase P class B
+RF03022,RT-10 RNA
+RF02681,Twister-sister ribozyme
+RF00525,Flavivirus DB element
+RF01852,Selenocysteine tRNA (tRNA-Sec)
+RF00379,ydaO/yuaA leader
+RF02541,Bacterial LSU rRNA
+RF01831,THF riboswitch
+RF00003,U1 spliceosomal RNA
+RF00442,Guanidine-I riboswitch
+RF00177,Bacterial SSU rRNA
+RF01854,Bacterial large SRP RNA
+RF00029,Group II catalytic intron
+RF00210,Aphthovirus IRES
+RF02540,Archaeal LSU rRNA
+RF00017,Metazoan SRP RNA
+RF02926,DUF2693-FD RNA
+RF01960,Eukaryotic SSU rRNA
+RF02543,Eukaryotic LSU rRNA
+RF00012,U3 snoRNA (CD-box)
+RF01959,Archaeal SSU rRNA
+RF04190,Hairpin ribozyme 1 (metatranscriptomes)
+RF00185,Flavivirus 3′ UTR CRE
+RF02683,NiCo riboswitch
+RF00114,Ribosomal S15 leader
+RF00548,U11 spliceosomal RNA
+RF00373,Archaeal RNase P
+RF00175,HIV-1 DIS
+RF01846,Fungal U3 snoRNA (CD-box)
+RF00030,RNase MRP
+RF00027,let-7 microRNA precursor family
+RF00007,U12 spliceosomal RNA
+RF00619,U6atac spliceosomal RNA
+RF01764,yjdF RNA
+RF00037,Iron response element I
+RF00031,Selenocysteine insertion sequence (SECIS_1)
+RF00002,5.8S rRNA
+RF00618,U4atac spliceosomal RNA
+RF00620,Hepatitis C ARF stem-loop
+RF01727,SAM/SAH riboswitch
+RF01786,c-di-GMP-II riboswitch
+RF00102,VA RNA
+RF01684,mascRNA / menRNA (MALAT1-associated)
+RF01857,Archaeal SRP RNA
+RF01057,SAH riboswitch
+RF00061,HCV IRES
+RF00507,Coronavirus frameshift element
+RF00066,U7 snRNA
+RF00168,Lysine riboswitch
+RF02542,Microsporidia SSU rRNA
+RF00032,Histone 3′ UTR stem-loop
+RF02679,Pistol ribozyme
+RF00250,TAR RNA (HIV trans-activation response)
+RF02977,folE RNA
+RF00100,7SK RNA
+RF04222,Flavivirus PLRV xrRNA
+RF00504,Glycine riboswitch
+RF03016,RT-12 RNA
+RF01763,Guanidine-III riboswitch
+RF00634,SAM-IV riboswitch
+RF00164,Coronavirus s2m element
+RF03167,c-di-GMP-I-GGC riboswitch
+RF00166,PrrB/RsmZ RNA
+RF00024,Vertebrate telomerase RNA
+RF02348,tracrRNA
+RF02933,ARRPOF RNA
+RF02032,GOLLD RNA
+RF01047,HBV epsilon RNA
+RF01317,CRISPR DR4
+RF00094,Hepatitis delta virus ribozyme
+RF02680,PreQ1-III riboswitch
+RF00075,mir-166 microRNA precursor family
+RF02253,Iron response element II
+RF00080,yybP-ykoY manganese riboswitch
+RF00163,Hammerhead ribozyme (type I)
+RF00233,Tymovirus/Pomovirus tRNA-like element
+RF00661,mir-31 microRNA precursor family
+RF00209,Pestivirus IRES
+RF00228,Hepatitis A IRES
+RF00374,Gammaretrovirus core encapsidation signal
+RF01380,HIV-1 major splice donor
+RF00083,GlmZ RNA
+RF00025,Ciliate telomerase RNA
+RF01415,Flavivirus SLIV
+RF01071,OLE RNA
+RF03030,salivarius-1 RNA
+RF03120,Sarbecovirus 5′UTR
+RF01381,HIV-1 Psi SL3
+RF00234,glmS ribozyme
+RF00240,RNA-OUT (antisense RNA)
+RF01054,preQ1-II riboswitch
+RF01807,GIR1 ribozyme
+RF00622,Mammalian CPEB3 ribozyme
+RF00028,Group I catalytic intron
+RF00254,mir-16 microRNA precursor family
+RF02340,Dengue virus SLA
+RF00106,RNAI (antisense RNA)
+RF00207,K10 TLS element
+RF01335,CRISPR DR22
+RF01084,TLS-PK3 pseudoknot
+RF01073,Gag/Pol readthrough site
+RF01826,SAM-V riboswitch
+RF00458,Cripavirus IRES
+RF02095,mir-2985-2 microRNA precursor family
+RF02546,Trypanosomatid mitochondrial LSU rRNA
+RF00957,mir-663 microRNA precursor family
+RF01330,CRISPR DR16
+RF00390,UPSK RNA
+RF00500,TCV H5 RNA
+RF02519,ToxI antitoxin RNA
+RF02359,MS2 operator hairpin
+RF00505,RydC RNA
+RF01271,snR30 snoRNA (HACA-box)
+RF02796,Pab160 RNA
+RF00382,DnaX frameshift element
+RF01344,CRISPR DR34
+RF00488,Yeast U1 spliceosomal RNA
+RF02545,Trypanosomatid mitochondrial SSU rRNA
+RF01510,M. florum riboswitch
+RF00044,Bacteriophage pRNA
+RF02521,Pea enation mosaic virus CITE
+RF00008,Hammerhead ribozyme (type III)
+RF00522,PreQ1 (pre queuosine) riboswitch aptamer
+RF02553,Y RNA-like
