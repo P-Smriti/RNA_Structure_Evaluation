@@ -12,3 +12,12 @@ So Unique IDs present in "Rfam_3d_list" that are not present in "Rfam_from_searc
 
 
 In file "Rfam_Final_combined_3d_List.xlsx", we have combined list of 164 (161+3) 3D families.
+
+In file "remaining_families.csv", we have now 4014 non 3D families after processing.
+Rfam Coverage Summary
+----------------------------
+Total families in seed file: 4178
+Already covered (from Excel): 164
+Filtered out (covered): 164
+Remaining (not covered): 4014
+Output file includes: 4014 families
