@@ -1,2 +1,16 @@
 # RNA_Structure_Evaluation
 Evaluation of de novo RNA 3D structure modeling using structural motifs
+
+
+
+Metric	Count
+Total Rfam IDs in File 1	64
+Total Rfam IDs in File 2	161
+Present in both files	61
+Missing from File 1	100
+Unique to File 1	3
+Match percentage	37.9%
+So Unique IDs present in "Rfam_3d_list" that are not present in "Rfam_from_search_161_fams" are:
+1. RF00008
+2. RF00522
+3. RF02553
