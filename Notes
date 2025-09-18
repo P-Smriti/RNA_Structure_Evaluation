@@ -10,9 +10,14 @@ So Unique IDs present in "Rfam_3d_list" that are not present in "Rfam_from_searc
 2. RF00522
 3. RF02553
 
-
+############################################################################################################################
 In file "Rfam_Final_combined_3d_List.xlsx", we have combined list of 164 (161+3) 3D families.
+############################################################################################################################
 
+
+
+
+############################################################################################################################
 In file "remaining_families.csv", we have now 4014 non 3D families after processing.
 Rfam Coverage Summary
 ----------------------------
@@ -21,10 +26,30 @@ Already covered (from Excel): 164
 Filtered out (covered): 164
 Remaining (not covered): 4014
 Output file includes: 4014 families
+############################################################################################################################
 
 
+
+
+#############################################################################################################################
+File: human_seqs_from_fams.py
+----------------------------------------------
+This Python script extracts human RNA sequences (identified by _9606) from an Rfam seed alignment file, skipping families already listed in a given Excel file. 
+It:
+Loads covered Rfam IDs from Excel
+Parses the seed file to find human sequences
+Skips families already covered
+Saves remaining human sequences grouped by family to a text file
+
+Output: human_remaining_final.txt with sequence IDs and sequences for each uncovered family.
+#############################################################################################################################
+
+
+
+
+################################################################################################################################
 File: Human seqs with stat info
--------------------------------
+---------------------------------------------
 Purpose: Extract human RNA sequences from an Rfam seed alignment file, excluding families listed in an Excel file.
 Inputs:
 Rfam.seed: alignment file with RNA families and sequences
@@ -41,3 +66,4 @@ GC content
 
 Output:
 human_remaining_with_stat_info.txt: detailed report with family summaries and sequence stats
+#################################################################################################################################
