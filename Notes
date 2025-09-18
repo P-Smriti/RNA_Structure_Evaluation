@@ -75,7 +75,7 @@ This Python script analyzes an Rfam seed alignment file to generate species-leve
 It:
 Loads covered Rfam IDs from Excel
 Parses the seed file to count sequences per species (based on NCBI tax IDs)
-Uses ete3 to resolve species names from taxonomic IDs
+Used ete3 to resolve species names from taxonomic IDs
 
 Summarizes:
 Total sequences per family
