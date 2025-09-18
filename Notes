@@ -67,3 +67,20 @@ GC content
 Output:
 human_remaining_with_stat_info.txt: detailed report with family summaries and sequence stats
 #################################################################################################################################
+
+
+#####################################################################################################################################################
+File: fam_species_stats.py
+This Python script analyzes an Rfam seed alignment file to generate species-level statistics for RNA families not listed in a given Excel file. 
+It:
+Loads covered Rfam IDs from Excel
+Parses the seed file to count sequences per species (based on NCBI tax IDs)
+Uses ete3 to resolve species names from taxonomic IDs
+
+Summarizes:
+Total sequences per family
+Human sequence count
+Other species sorted by abundance
+
+Saves the report to rfam_species_stats.txt
+#####################################################################################################################################################
