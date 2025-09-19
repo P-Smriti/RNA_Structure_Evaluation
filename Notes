@@ -84,3 +84,7 @@ Other species sorted by abundance
 
 Saves the report to rfam_species_stats.txt
 #####################################################################################################################################################
+
+
+pdb_full_region.txt : provides the mapping of current families mapped to pdb id and chains.
+Link to fetch weekly updates: https://ftp.ebi.ac.uk/pub/databases/Rfam/.preview/
