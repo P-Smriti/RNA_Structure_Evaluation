@@ -86,7 +86,7 @@ Saves the report to rfam_species_stats.txt
 #####################################################################################################################################################
 
 
-
+Sept 22
 #####################################################################################################################################################
 # Extract Rfam IDs and Family Names from Seed File to Excel
 
@@ -103,6 +103,23 @@ This script reads pdb_full_region.txt file, extracts the first column containing
 
 Output file: unique_rfam_ids.xlsx
 #######################################################################################################################################################
+
+# Code to compare Rfam Coverage: Identify Families Not Present in PDB List.
+File name: rfam_id_difference_finder.py
+
+This script compares two Excel files:
+rfam_id_name_list.xlsx: the full list of Rfam families.
+unique_rfam_ids.xlsx: the subset of Rfam IDs already associated with PDB entries.
+
+It extracts Rfam IDs from both, computes the difference (i.e., families not yet covered by PDB), and saves the result to rfam_id_difference.xlsx
+
+Output file : rfam_id_difference.xlsx
+Saved 4014 Rfam IDs not found in unique list to rfam_id_difference.xlsx
+
+
+#######################################################################################################################################################
+
+
 
 
 
