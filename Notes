@@ -86,5 +86,14 @@ Saves the report to rfam_species_stats.txt
 #####################################################################################################################################################
 
 
+
+#####################################################################################################################################################
+# Extract Rfam IDs and Family Names from Seed File to Excel
+
+File name: All_Rfam_IDs_extraction_from_seed_file.py
+This code parses an Rfam seed file to extract each family's accession ID and name, then saves the list to an Excel sheet.
+
+Output file : rfam_id_name_list.xlsx
+######################################################################################################################################################
 pdb_full_region.txt : provides the mapping of current families mapped to pdb id and chains. This is latest update of Sep 15,2025
 Link to fetch weekly updates: https://ftp.ebi.ac.uk/pub/databases/Rfam/.preview/
