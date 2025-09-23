@@ -1,0 +1,12 @@
+2025-09-23 15:58:51,597 - INFO: Constructing RhoFold
+2025-09-23 15:58:53,207 - INFO:     downloading pretrained/RhoFold_pretrained.pt
+2025-09-23 15:58:53,646 - INFO:     loading pretrained/RhoFold_pretrained.pt
+2025-09-23 15:58:56,666 - INFO: Input_fas split_fa/00026.fasta
+2025-09-23 15:58:56,667 - INFO: Input_a3m is None, the modeling will run using single sequence only (input_fas)
+2025-09-23 15:58:56,667 - INFO: Started RhoFold Inference
+2025-09-23 15:58:56,698 - INFO:     Inference using device cuda
+2025-09-23 15:59:05,576 - INFO:     Export PDB file to my_outputs/00026/unrelaxed_model.pdb
+2025-09-23 15:59:05,577 - INFO: Finished RhoFold Inference in 8.909 seconds
+2025-09-23 15:59:05,577 - INFO: Started Amber Relaxation : 1000 iterations
+2025-09-23 15:59:05,577 - INFO:     AmberRelaxation: Using OpenCL
+2025-09-23 15:59:36,446 - INFO:     Minimizing ...
