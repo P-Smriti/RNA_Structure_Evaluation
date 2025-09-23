@@ -1,0 +1,2 @@
+1. Get the list of all families i.e. RF ids from Rfam.
+2. Get the list of RF ids which have 3d structures.(pdb_full_region.txt)
