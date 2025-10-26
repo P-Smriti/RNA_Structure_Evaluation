@@ -3,8 +3,8 @@
 import os
 import pandas as pd
 
-input_dir = r"C:\Users\gundl\Downloads\data\split_fa"
-output_excel = r"C:\Users\gundl\Desktop\fasta_mapping_with_length.xlsx"
+input_dir = r"../data/split_fa"
+output_excel = r"results.csv"
 
 data = []
 
@@ -28,12 +28,12 @@ for filename in sorted(os.listdir(input_dir)):
                 #"fasta_file": filename,
                 "file_name": clean_name,
                 "sequence_length": seq_length,
-                "num_motifs_farfar2": "N/A",     # placeholder
-                "num_motifs_rhofold": "N/A",     # placeholder
-                "num_motifs_alphafold3": "N/A"   # placeholder
+                "num_motifs_farfar2": 1,     # placeholder
+                "num_motifs_rhofold": 1,     # placeholder
+                "num_motifs_alphafold3": 1   # placeholder
             })
 
 df = pd.DataFrame(data)
-df.to_excel(output_excel, index=False)
+df.to_csv(output_excel, index=False)
 
 print(f"Excel saved successfully to: {output_excel}")
