@@ -41,3 +41,6 @@ def plot_motif_histogram(file_path, motif_column):
     plt.title(f"Histogram of Sequence Length vs. {motif_column}")
     plt.grid(axis='y', alpha=0.75)
     plt.show()
+    plt.savefig("/home/s081p868/scratch/RNA_Structure_Evaluation/data/sequence_length_vs_motif.png", dpi=300, bbox_inches='tight')
+
+#plt.show()
